@@ -1,5 +1,5 @@
 # Traffic_Prediction
-raffic Trend Analysis:
+Traffic Trend Analysis:
 
 The dataset was analyzed for different regions based on user input.
 
